@@ -21,7 +21,7 @@ Microsoft Excel — SUMIFS, IFERROR, Conditional Formatting, Bar Chart
 - Highest spend: Rent (₹8,000)
 
 ## Screenshot
-screenshot1.png
+![Dashboard](screenshot1.png)
 
 ## Dataset
 Sample personal budget data created manually
